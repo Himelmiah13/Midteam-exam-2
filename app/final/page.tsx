@@ -3,13 +3,7 @@ export default function Page (){
         <>
         <h1 className= "text-3xl ml-5 text-red-800 font-bold text-center"> FINAL EXAM FOR 343</h1>
         <form>
-            <label htmlFor="product">Roasted nuts. Toasted spices. Fluffy basmati rice.
-
-Often the star of the show at holidays and family celebrations biryani captures the mouthwatering sensations of Indian comfort food.
-This rice dish comes in hundreds of regional variations and each features crunchy vegetables, perfectly seasoned rice, and tender meat like chicken thigh or drumsticks.
-Let learn all about this classic layered rice dish and why you should seek out a delicious bowl of chicken biryani for your next night-in.There is a term in Hyderabad for cooking patiently ithmenaan se which is the key. Hyderbadi cuisine is special because of the ingredients, which are carefully chosen, cooked to the right degree and for the right time. Primarily the focus is on picking the right kind of spices, meat, rice, etc. Therefore, an addition of a certain herb, spice, condiment gives a distinct taste and aroma. Hyderabadi Cuisine has different recipes for different tastes and we have brought out the best dishes of this cuisine for serving you.
-Hyderabad is famous for its Biryani and is now almost synonymous with the city. Whenever the city of Hyderabad gets mentioned, Biryani comes to mind. We don't want our Houston community to miss out on this novel specialty so we make fresh authentic Hyderbadi Biryani with our proprietary recipe at Biryani Pot.
-The folks and Management at Biryani Pot work with a smile - A universal gesture to make your experience great. Our friendly service will make our guests feel at home as we strive for a very high level of customer satisfaction.</label>
+            <label htmlFor="product" >Customer Rating Based on the Quality of the food in terms of taste and qunatity</label>
             <input 
             type="text" name="product" id="product" className=" m-5 text-3xl text-black bg-orange-700 border-solid"/>
             <br />
