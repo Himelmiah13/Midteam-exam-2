@@ -1,6 +1,7 @@
 export default function Home() {
   return (
     <>
+    Date:12/9/2024
       <img src="https://i.postimg.cc/59SRVjCz/891233042e9ada9873fc6d9c4e835eac.jpg" className="rounded-lg w-full md:w-1/2 mx-auto my-4"/>
       <main className= "text-center text-2xl font-bold mb-4 underline text-green-700">Biryani Scene Of New York (Part One)</main>
       <h1 className= "italic text-green-700">I have started writing about biryani in a medium today thinking it been about 15 weeks. But my fascination with biryani dates back much earlier. The fact that this extraordinary and beautiful dish has become a signature dish of the Indian subcontinent has always fascinated me. My journey in search of biryani secrets has always excited me. It the enthusiasm and courage received from the readers and writers of the medium during this journey that is unparalleled.</h1>
